@@ -1,2 +1,0 @@
-# Interlix
-A joke.
